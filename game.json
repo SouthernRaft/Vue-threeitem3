@@ -1,0 +1,1100 @@
+{
+  "navs": [
+    {
+      "id": 1,
+      "title": "首页",
+      "path": "/",
+      "icon": "House"
+    },
+    {
+      "id": 2,
+      "title": "游戏库",
+      "path": "/store",
+      "icon": "Grid"
+    },
+    {
+      "id": 3,
+      "title": "特惠榜",
+      "path": "/deals",
+      "icon": "Discount"
+    },
+    {
+      "id": 4,
+      "title": "玩家社区",
+      "path": "/community",
+      "icon": "ChatLineRound"
+    },
+    {
+      "id": 5,
+      "title": "个人中心",
+      "path": "/profile",
+      "icon": "User"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "type": "action",
+      "name": "动作冒险",
+      "count": 48,
+      "color": "success"
+    },
+    {
+      "id": 2,
+      "type": "rpg",
+      "name": "角色扮演",
+      "count": 35,
+      "color": "warning"
+    },
+    {
+      "id": 3,
+      "type": "strategy",
+      "name": "策略经营",
+      "count": 27,
+      "color": "info"
+    },
+    {
+      "id": 4,
+      "type": "simulation",
+      "name": "模拟建造",
+      "count": 31,
+      "color": "primary"
+    },
+    {
+      "id": 5,
+      "type": "sports",
+      "name": "竞速体育",
+      "count": 19,
+      "color": "danger"
+    },
+    {
+      "id": 6,
+      "type": "puzzle",
+      "name": "解谜探索",
+      "count": 22,
+      "color": "success"
+    },
+    {
+      "id": 7,
+      "type": "indie",
+      "name": "独立佳作",
+      "count": 43,
+      "color": "warning"
+    },
+    {
+      "id": 8,
+      "type": "online",
+      "name": "多人在线",
+      "count": 38,
+      "color": "primary"
+    },
+    {
+      "id": 9,
+      "type": "casual",
+      "name": "休闲派对",
+      "count": 24,
+      "color": "info"
+    },
+    {
+      "id": 10,
+      "type": "horror",
+      "name": "恐怖生存",
+      "count": 16,
+      "color": "danger"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "艾尔登法环",
+      "category": "action",
+      "categoryName": "动作冒险",
+      "platform": "Windows / PS5 / Xbox",
+      "developer": "FromSoftware",
+      "publisher": "万代南梦宫",
+      "releaseDate": "2022-02-25",
+      "price": 198,
+      "originalPrice": 268,
+      "discount": 26,
+      "score": 9.6,
+      "players": 2180000,
+      "tags": [
+        "魂系",
+        "开放世界",
+        "高难度"
+      ],
+      "cover": "https://n.sinaimg.cn/sinakd20113/600/w1920h1080/20210620/ee78-4b6e4b4364a29ac6d77b358454ee3e92.jpg",
+      "banner": "https://ts4.tc.mm.bing.net/th/id/OIP-C.gTcSFYP-WVp7sc9CcxDcxQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "screenshot": "https://ts1.tc.mm.bing.net/th/id/R-C.323e5fcc954fdc9358958c1ff1524fb3?rik=m2TH5EwpaZoIBw&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20211019ac%2f600%2fw1920h1080%2f20211019%2f52b9-c8bf4c9297fd6dba5275393fd8783df5.jpg&ehk=LFHFV2Mzjdp%2fOq00YpAnknEP47G5Yt1UkKdZw686Ruk%3d&risl=&pid=ImgRaw&r=0",
+      "summary": "由宫崎英高与乔治·马丁联合创作，探索广袤的交界地大陆。",
+      "description": "艾尔登法环是 FromSoftware 推出的开放世界动作 RPG。玩家将扮演褪色者，在充满神话色彩的交界地中挑战各路强敌，寻找碎裂的艾尔登法环。游戏融合了《黑暗之魂》系列的硬核战斗与开放世界的自由探索，被誉为近年最高品质的动作游戏之一。",
+      "requirements": "需要 12GB 内存、GTX 1060 / RX 580 或更高显卡，60GB 可用存储。"
+    },
+    {
+      "id": 2,
+      "name": "荒野大镖客：救赎2",
+      "category": "action",
+      "categoryName": "动作冒险",
+      "platform": "Windows / PS4 / Xbox One",
+      "developer": "Rockstar Games",
+      "publisher": "Rockstar Games",
+      "releaseDate": "2019-11-05",
+      "price": 178,
+      "originalPrice": 298,
+      "discount": 40,
+      "score": 9.7,
+      "players": 4100000,
+      "tags": [
+        "开放世界",
+        "西部",
+        "剧情"
+      ],
+      "cover": "https://ts1.tc.mm.bing.net/th/id/OIP-C.zj8Qe0HdRPnGCvvtFfSpAgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "banner": "https://ts3.tc.mm.bing.net/th/id/OIP-C.tR-o3l0Zswo7sGmzJK8eNwHaEo?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "screenshot": "https://ts1.tc.mm.bing.net/th/id/R-C.40b620f8253450bcc90fe50c350e7748?rik=bm1NtcGo7wQRUA&riu=http%3a%2f%2fi0.hdslb.com%2fbfs%2farchive%2fd97406ae741e2c63334755ab0930397654fb4105.jpg&ehk=I6CW8geTL%2bvRzDtX%2fMdJ89wzZgxsD8lvAY9fCX1Tjmc%3d&risl=&pid=ImgRaw&r=0",
+      "summary": "1899年美国西部的黄昏，亡命之徒亚瑟·摩根的史诗故事。",
+      "description": "荒野大镖客：救赎2是 Rockstar 最宏大的作品，以1899年美国西部为背景，讲述了范德林德帮派成员亚瑟·摩根在时代变迁中的挣扎与救赎。游戏拥有极度还原的开放世界、深度的角色刻画和电影级的叙事体验，被广泛认为是史上最佳游戏之一。",
+      "requirements": "需要 12GB 内存、GTX 1060 6GB 或 RX 480 4GB，150GB 可用存储。"
+    },
+    {
+      "id": 3,
+      "name": "星露谷物语",
+      "category": "simulation",
+      "categoryName": "模拟建造",
+      "platform": "Windows / macOS / Linux / Switch / iOS / Android",
+      "developer": "ConcernedApe",
+      "publisher": "ConcernedApe",
+      "releaseDate": "2016-02-26",
+      "price": 33,
+      "originalPrice": 33,
+      "discount": 0,
+      "score": 9.5,
+      "players": 8500000,
+      "tags": [
+        "农场",
+        "像素",
+        "休闲"
+      ],
+      "cover": "https://img.3dmgame.com/uploads/allimg/170506/316-1F506161K9.png",
+      "banner": "https://img.3dmgame.com/uploads/images/thumbnews/20180831/1535704383_725362.jpg",
+      "screenshot": "https://www.ledouwan.com/uploads/uploaded/game/2210/15/img_20221015180328gicm8o.jpg",
+      "summary": "继承爷爷的农场，在宁静的山谷小镇开启全新的田园生活。",
+      "description": "星露谷物语是独立开发者 ConcernedApe 历时四年一人开发完成的像素风农场模拟游戏。玩家将接手一座荒废的农场，通过种植、养殖、采矿、钓鱼和与村民交友来建设属于自己的生活。游戏节奏舒缓，内容极其丰富，是治愈系游戏的标杆。",
+      "requirements": "需要 2GB 内存、256MB 显存，500MB 可用存储。"
+    },
+    {
+      "id": 4,
+      "name": "文明6",
+      "category": "strategy",
+      "categoryName": "策略经营",
+      "platform": "Windows / macOS / Linux / iOS / Android / Switch",
+      "developer": "Firaxis Games",
+      "publisher": "2K Games",
+      "releaseDate": "2016-10-21",
+      "price": 98,
+      "originalPrice": 298,
+      "discount": 67,
+      "score": 9.0,
+      "players": 5200000,
+      "tags": [
+        "回合制",
+        "4X策略",
+        "历史"
+      ],
+      "cover": "https://game.mhcdkey.com/image/ask/238818/3w2x1kaoggr.jpg",
+      "banner": "https://ts1.tc.mm.bing.net/th/id/R-C.591c49d43935fe752a3664899a68dda5?rik=3A1zcMuEVjiuiw&riu=http%3a%2f%2fimg1.wywyx.com%2fuploads%2f211231%2f19U211231100T3X6.jpg&ehk=DviwouZmt2dP0F78uwrMuUkz35ajzL%2fd%2f39O9hNsFbs%3d&risl=&pid=ImgRaw&r=0",
+      "screenshot": "https://media.9game.cn/gamebase/ieu-gdc-pre-process/images/20240101/1/1/b171507a467138b4b930b9d6dbe2818a.jpg",
+      "summary": "率领伟大的文明走过千年历史，缔造属于你的世界遗产。",
+      "description": "文明6是 Firaxis Games 出品的经典回合制策略游戏。玩家需要选择历史上的伟大领袖，从远古时代开始发展科技、文化、宗教和军事，最终以科技、文化、宗教、外交或统治等方式获得胜利。游戏的「区域」系统和叠加地图让每一局都充满新鲜感。",
+      "requirements": "需要 8GB 内存、DX11 兼容显卡，17GB 可用存储。"
+    },
+    {
+      "id": 5,
+      "name": "火箭联盟",
+      "category": "sports",
+      "categoryName": "竞速体育",
+      "platform": "Windows / PS4 / Xbox One / Switch",
+      "developer": "Psyonix",
+      "publisher": "Epic Games",
+      "releaseDate": "2015-07-07",
+      "price": 0,
+      "originalPrice": 0,
+      "discount": 0,
+      "score": 8.8,
+      "players": 12000000,
+      "tags": [
+        "免费",
+        "多人",
+        "竞技"
+      ],
+      "cover": "https://img.3dmgame.com/uploads/images/news/20180929/1538189109_304211.jpg",
+      "banner": "https://img.3dmgame.com/uploads/images/news/20240624/1719193695_807612.jpg",
+      "screenshot": "https://img.3dmgame.com/uploads/images/news/20241017/1729154982_805693.png",
+      "summary": "火箭动力赛车与足球的完美融合，上限极高的电竞竞技游戏。",
+      "description": "火箭联盟是一款将驾驶赛车与踢足球结合在一起的竞技游戏。玩家驾驶搭载火箭推进器的赛车，在球场上进行3v3的足球对决。游戏已转为免费游玩模式，拥有活跃的电竞赛事生态和极高的天花板，是最受欢迎的竞技游戏之一。",
+      "requirements": "需要 8GB 内存、GTX 760 或同级显卡，20GB 可用存储。"
+    },
+    {
+      "id": 6,
+      "name": "博德之门3",
+      "category": "rpg",
+      "categoryName": "角色扮演",
+      "platform": "Windows / macOS / PS5",
+      "developer": "Larian Studios",
+      "publisher": "Larian Studios",
+      "releaseDate": "2023-08-03",
+      "price": 298,
+      "originalPrice": 398,
+      "discount": 25,
+      "score": 9.8,
+      "players": 3600000,
+      "tags": [
+        "RPG",
+        "D&D",
+        "多人合作"
+      ],
+      "cover": "https://img.3dmgame.com/uploads/images/news/20230801/1690879626_770203.png",
+      "banner": "https://game.mhcdkey.com/image/ask/200222/phoxpytdpnr.jpg",
+      "screenshot": "https://www.3dmgame.com/uploads/images/thumbpicfirst/20201007/1602033818_646993.jpg",
+      "summary": "基于龙与地下城规则，史上最完整的 RPG 体验。",
+      "description": "博德之门3是 Larian Studios 基于龙与地下城5e规则打造的史诗级角色扮演游戏。玩家将扮演被蛆虫寄生的角色，在费伦大陆展开一段命运攸关的冒险。游戏拥有极高的自由度、精心设计的角色和剧情分支，以及高质量的多人合作模式，一经发售便席卷各大年度游戏奖项。",
+      "requirements": "需要 16GB 内存、GTX 1060 6GB / RX 5500 XT 8GB 或更高，150GB 可用存储。"
+    },
+    {
+      "id": 7,
+      "name": "空洞骑士",
+      "category": "indie",
+      "categoryName": "独立佳作",
+      "platform": "Windows / macOS / Linux / Switch / PS4 / Xbox One",
+      "developer": "Team Cherry",
+      "publisher": "Team Cherry",
+      "releaseDate": "2017-02-24",
+      "price": 30,
+      "originalPrice": 42,
+      "discount": 29,
+      "score": 9.4,
+      "players": 6800000,
+      "tags": [
+        "银河恶魔城",
+        "独立",
+        "高难度"
+      ],
+      "cover": "https://ts1.tc.mm.bing.net/th/id/OIP-C.F9DjOsrfEDTV1IXPcNmaAgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "banner": "https://img.3dmgame.com/uploads/images/news/20211119/1637287796_697079.jpg",
+      "screenshot": "https://img.3dmgame.com/uploads/allimg/170811/379-1FQ1141955.jpg",
+      "summary": "在被遗忘的虫族王国中穿行，揭开哈洛巢穴的黑暗秘密。",
+      "description": "空洞骑士是 Team Cherry 出品的银河恶魔城类型独立游戏，以精美的手绘风格和宏大的地下世界著称。玩家扮演一名沉默的小骑士，在充满危险与谜题的哈洛巢穴中探索，战斗，寻找真相。游戏拥有超过40小时的主线内容和大量免费DLC，是独立游戏史上的传奇之作。",
+      "requirements": "需要 4GB 内存、GeForce 450 GTS / Radeon HD 5750 或更高，9GB 可用存储。"
+    },
+    {
+      "id": 8,
+      "name": "绝地求生",
+      "category": "online",
+      "categoryName": "多人在线",
+      "platform": "Windows",
+      "developer": "PUBG Studios",
+      "publisher": "Krafton",
+      "releaseDate": "2017-12-21",
+      "price": 98,
+      "originalPrice": 128,
+      "discount": 23,
+      "score": 8.2,
+      "players": 75000000,
+      "tags": [
+        "大逃杀",
+        "射击",
+        "多人"
+      ],
+      "cover": "https://ts1.tc.mm.bing.net/th/id/R-C.ffe00a1c98eef06bd94292c7ee9c31da?rik=9oHqmB6ZMWetFQ&riu=http%3a%2f%2fossweb-img.qq.com%2fupload%2fwebplat%2finfo%2fpubg%2f20171201%2f23669547580567.jpg&ehk=WJzI%2bICQWJkdr75u%2fD4teQWqlIDKL0QDsU5h1Riquy0%3d&risl=&pid=ImgRaw&r=0",
+      "banner": "https://img.3dmgame.com/uploads/allimg/180205/399-1P2051K312.jpg",
+      "screenshot": "https://img.3dmgame.com/uploads/images/news/20181114/1542154741_554864.jpg",
+      "summary": "百人空降荒野孤岛，缩圈决战，最终只有一人能够生存。",
+      "description": "绝地求生是大逃杀品类的开创者，100名玩家空降到一座孤岛，通过搜寻装备、击败对手，在不断缩小的安全区内活到最后。游戏拥有多张各具特色的地图和丰富的载具系统，是全球最受欢迎的射击游戏之一，也是现代电竞赛事的重要组成部分。",
+      "requirements": "需要 8GB 内存、GTX 1060 3GB 或 AMD RX 580 4GB，40GB 可用存储。"
+    },
+    {
+      "id": 9,
+      "name": "动物森友会",
+      "category": "casual",
+      "categoryName": "休闲派对",
+      "platform": "Nintendo Switch",
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
+      "releaseDate": "2020-03-20",
+      "price": 299,
+      "originalPrice": 299,
+      "discount": 0,
+      "score": 9.0,
+      "players": 43400000,
+      "tags": [
+        "治愈",
+        "社交",
+        "建造"
+      ],
+      "cover": "https://image.9game.cn/2020/2/20/139333045.jpg",
+      "banner": "https://p.qpic.cn/mwegame/0/d3d4195d984685c1417d3f6f873072cb/",
+      "screenshot": "https://image.9game.cn/2020/4/7/145198238.jpg",
+      "summary": "搬到无人岛，与动物邻居们一起打造属于你的梦想小岛。",
+      "description": "动物森友会：新视野是任天堂出品的生活模拟游戏，玩家将在荒芜的无人岛上从零开始，与可爱的动物们一起种树、钓鱼、捉虫、装饰小岛。游戏以实时时钟推进，四季变化，节日活动丰富。恰逢疫情期间发售，凭借温馨的游玩体验成为全球现象级游戏。",
+      "requirements": "需要 Nintendo Switch 主机，6.2GB 可用存储。"
+    },
+    {
+      "id": 10,
+      "name": "生化危机4：重制版",
+      "category": "horror",
+      "categoryName": "恐怖生存",
+      "platform": "Windows / PS4 / PS5 / Xbox Series",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "releaseDate": "2023-03-24",
+      "price": 198,
+      "originalPrice": 268,
+      "discount": 26,
+      "score": 9.3,
+      "players": 7200000,
+      "tags": [
+        "恐怖",
+        "动作",
+        "射击"
+      ],
+      "cover": "https://img.3dmgame.com/uploads/images/news/20220614/1655164948_557784.jpg",
+      "banner": "https://img.3dmgame.com/uploads/images/news/20240202/1706820209_738245.jpg",
+      "screenshot": "https://media.9game.cn/gamebase/ieu-gdc-pre-process/images/20230326/10/10/7d8b0d5acb3d618d3e4e223d01bfa549.jpg",
+      "summary": "里昂再度出击，深入欧洲村庄营救总统之女。",
+      "description": "生化危机4重制版是 Capcom 对2005年经典原作的全面重构，保留了原作的核心精髓并以现代化的画面和玩法呈现。玩家扮演特工里昂·肯尼迪，深入充满感染者的欧洲村庄执行救援任务。游戏在保留原作紧张刺激节奏的基础上，优化了战斗手感和剧情呈现，备受好评。",
+      "requirements": "需要 12GB 内存、RX 5700 或 GTX 1070 或更高，67GB 可用存储。"
+    },
+    {
+      "id": 11,
+      "name": "原神",
+      "category": "rpg",
+      "categoryName": "角色扮演",
+      "platform": "Windows / PS4 / PS5 / iOS / Android",
+      "developer": "miHoYo",
+      "publisher": "miHoYo",
+      "releaseDate": "2020-09-28",
+      "price": 0,
+      "originalPrice": 0,
+      "discount": 0,
+      "score": 8.9,
+      "players": 60000000,
+      "tags": [
+        "免费",
+        "开放世界",
+        "二次元"
+      ],
+      "cover": "https://k.sinaimg.cn/n/finance/transform/185/w630h355/20220920/1079-58b3379e12aceb47482087e13a60c00e.png/w700h350z1l10t10f8c.jpg",
+      "banner": "https://ts4.tc.mm.bing.net/th/id/OIP-C.IsGLo_q_d-WdnJg2LgyT0AHaFO?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "screenshot": "https://gd-hbimg.huaban.com/8519e150d913038d0c9561bfd7d45694e4051da4229ce4-02CBYu_fw658",
+      "summary": "在提瓦特大陆展开冒险，以元素之力揭开命运的谜团。",
+      "description": "原神是 miHoYo 推出的开放世界动作角色扮演游戏，免费游玩。玩家扮演旅行者，在充满元素力量的提瓦特大陆上探索多个国家，与各具特色的同伴并肩作战。游戏以精美的美术风格、丰富的剧情和持续更新的内容著称，是全球收入最高的手游/端游之一。",
+      "requirements": "需要 16GB 内存、GTX 1060 5GB 或同级显卡，100GB 可用存储（持续增长）。"
+    },
+    {
+      "id": 12,
+      "name": "传送门2",
+      "category": "puzzle",
+      "categoryName": "解谜探索",
+      "platform": "Windows / macOS / Linux / PS3 / Xbox 360",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "releaseDate": "2011-04-19",
+      "price": 47,
+      "originalPrice": 47,
+      "discount": 0,
+      "score": 9.8,
+      "players": 9200000,
+      "tags": [
+        "解谜",
+        "科幻",
+        "合作"
+      ],
+      "cover": "https://ts1.tc.mm.bing.net/th/id/R-C.2aec4bb938dfdbcf3d03865a3cfc7b69?rik=iNuVPa88b8inWA&riu=http%3a%2f%2fimg.ggzuhao.com%2fimg%2fImgProc%2fProcImg%2f31586f62-6afa-46ee-9a56-71375c5ad441.jpg&ehk=020317C8kDQUjneEA%2fkzYWmTHjnObADs5KN1c87yDAo%3d&risl=&pid=ImgRaw&r=0",
+      "banner": "https://game.mhcdkey.com/picture/wenda/20221213/rlc4y1q54fg.jpg",
+      "screenshot": "https://game.mhcdkey.com/image/ask/200215/exjjftkcic0.jpg",
+      "summary": "手持传送门枪，在光圈科技的测试室中破解物理谜题。",
+      "description": "传送门2是 Valve 出品的第一人称解谜游戏，玩家使用能创造相互连接传送门的枪械解决各种物理谜题。游戏拥有精彩的单人剧情和需要两人默契配合的合作模式，以其独特的游戏机制、幽默的剧情和精妙的关卡设计在玩家和媒体中获得了几乎完美的评价。",
+      "requirements": "需要 4GB 内存、DX9 兼容显卡，8GB 可用存储。"
+    },
+    {
+      "id": 13,
+      "name": "怪物猎人：世界",
+      "category": "action",
+      "categoryName": "动作冒险",
+      "platform": "Windows / PS4 / Xbox One",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "releaseDate": "2018-08-09",
+      "price": 148,
+      "originalPrice": 228,
+      "discount": 35,
+      "score": 9.2,
+      "players": 21000000,
+      "tags": [
+        "狩猎",
+        "合作",
+        "动作"
+      ],
+      "cover": "https://ts1.tc.mm.bing.net/th/id/R-C.5e62a900d1c4d58766978440a4ab8460?rik=DLf758oJHykJ%2bw&riu=http%3a%2f%2fwww.gamelook.com.cn%2fwp-content%2fuploads%2f2018%2f03%2f27-4.jpg&ehk=6hyFEiWr9s4QUaYfvwyYdDu%2fIsll8MYIfJg3r%2bYmX60%3d&risl=&pid=ImgRaw&r=0",
+      "banner": "https://img.3dmgame.com/uploads/images/news/20211103/1635930072_367283.jpg",
+      "screenshot": "https://shop.3dmgame.com/upload/ico/2020/0604/1591261274990632.jpg",
+      "summary": "踏入原始蛮荒的新大陆，追踪并猎杀各类巨型怪物。",
+      "description": "怪物猎人：世界是 Capcom 将怪物猎人系列带向全球的革命性作品。玩家扮演猎人，在生态丰富的开放地图中追踪、陷阱和猎杀各种大型怪物，收集材料锻造更强的装备。游戏支持最多四人联机合作，策略性的战斗系统和满足感极强的养成循环让玩家欲罢不能。",
+      "requirements": "需要 8GB 内存、GTX 1060 或 RX 570 或更高，30GB 可用存储。"
+    },
+    {
+      "id": 14,
+      "name": "赛博朋克2077",
+      "category": "rpg",
+      "categoryName": "角色扮演",
+      "platform": "Windows / PS4 / PS5 / Xbox One / Xbox Series",
+      "developer": "CD Projekt RED",
+      "publisher": "CD Projekt RED",
+      "releaseDate": "2020-12-10",
+      "price": 178,
+      "originalPrice": 298,
+      "discount": 40,
+      "score": 9.1,
+      "players": 25000000,
+      "tags": [
+        "开放世界",
+        "科幻",
+        "剧情"
+      ],
+      "cover": "https://img.3dmgame.com/uploads/images/news/20201204/1607046791_936713.jpg",
+      "banner": "https://ts1.tc.mm.bing.net/th/id/R-C.af424abd4891d5c5a8fcb8997245bd11?rik=w1QJwy80eZCbEg&riu=http%3a%2f%2fimg.3dmgame.com%2fuploads%2fimages%2fnews%2f20190303%2f1551576276_975434.jpg&ehk=B%2f3GFhR5ghOIttYheHfnPh39zL9VKp7kJlmL%2ffsT7p8%3d&risl=&pid=ImgRaw&r=0",
+      "screenshot": "https://pic.mairuan.com/WebSource/crossover/news/images/93e87086b1b1b39e0ec5f51353aee10765c07c2497165.png",
+      "summary": "身处夜之城，在这座永不停歇的霓虹都市中谱写你自己的传奇。",
+      "description": "赛博朋克2077是 CD Projekt RED 打造的开放世界角色扮演游戏，背景设定在2077年的反乌托邦城市「夜之城」。经过多次更新优化，如今的2077已是一款品质卓越的 RPG——自由的角色构建、多样的任务分支、以及基努·里维斯饰演的传奇摇滚机械人强尼，令人沉浸其中。",
+      "requirements": "需要 12GB 内存、GTX 1060 6GB / RX 5500 XT 8GB 或更高，70GB 可用存储。"
+    },
+    {
+      "id": 15,
+      "name": "蔚蓝",
+      "category": "indie",
+      "categoryName": "独立佳作",
+      "platform": "Windows / macOS / Linux / PS4 / Xbox One / Switch",
+      "developer": "Maddy Thorson & Noel Berry",
+      "publisher": "Extremely OK Games",
+      "releaseDate": "2018-01-25",
+      "price": 54,
+      "originalPrice": 66,
+      "discount": 18,
+      "score": 9.5,
+      "players": 4200000,
+      "tags": [
+        "平台跳跃",
+        "独立",
+        "治愈"
+      ],
+      "cover": "https://th.bing.com/th/id/R.cca7cf96381f8a213f6403c340d9d0f0?rik=4ViMHaLR8%2bjl%2fQ&riu=http%3a%2f%2fi2.hdslb.com%2fbfs%2farchive%2fd904639be2da8c033dfabd3e366b43610d8f6996.jpg&ehk=IjshaOWpyIkwej4P5h97IC0G39dmW4i%2bfMUe%2bYRozcI%3d&risl=&pid=ImgRaw&r=0",
+      "banner": "https://tse1.mm.bing.net/th/id/OIP.Df0h1xLYtS4-eyK7WVXwZAHaEK?cb=thfc1falcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "screenshot": "https://tse1.mm.bing.net/th/id/OIP.Df0h1xLYtS4-eyK7WVXwZAHaEK?cb=thfc1falcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "summary": "陪伴玛德琳克服内心的恐惧，一步一步登上天青山。",
+      "description": "蔚蓝是一款精致的像素风平台跳跃游戏，同时也是一个关于克服焦虑与抑郁、找回自我的温暖故事。游戏以挑战性的手感操作和精心设计的关卡著称，在极高的难度背后藏着鼓励与治愈。配乐获得格莱美提名，是近年独立游戏在艺术与玩法两方面最完美的平衡之作。",
+      "requirements": "需要 2GB 内存、集成显卡可运行，1.2GB 可用存储。"
+    }
+  ],
+  "deals": [
+    {
+      "id": 1,
+      "gameId": 1,
+      "name": "艾尔登法环",
+      "cover": "https://n.sinaimg.cn/sinakd20113/600/w1920h1080/20210620/ee78-4b6e4b4364a29ac6d77b358454ee3e92.jpg",
+      "oldPrice": 268,
+      "nowPrice": 198,
+      "discount": 26,
+      "until": "2026-06-10",
+      "reason": "FromSoftware 魂系精选"
+    },
+    {
+      "id": 2,
+      "gameId": 2,
+      "name": "荒野大镖客：救赎2",
+      "cover": "https://ts1.tc.mm.bing.net/th/id/OIP-C.zj8Qe0HdRPnGCvvtFfSpAgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "oldPrice": 298,
+      "nowPrice": 178,
+      "discount": 40,
+      "until": "2026-06-08",
+      "reason": "R星年度特惠"
+    },
+    {
+      "id": 3,
+      "gameId": 4,
+      "name": "文明6",
+      "cover": "https://game.mhcdkey.com/image/ask/238818/3w2x1kaoggr.jpg",
+      "oldPrice": 298,
+      "nowPrice": 98,
+      "discount": 67,
+      "until": "2026-06-12",
+      "reason": "策略经营大促"
+    },
+    {
+      "id": 4,
+      "gameId": 6,
+      "name": "博德之门3",
+      "cover": "https://img.3dmgame.com/uploads/images/news/20230801/1690879626_770203.png",
+      "oldPrice": 398,
+      "nowPrice": 298,
+      "discount": 25,
+      "until": "2026-06-05",
+      "reason": "年度最佳RPG特惠"
+    },
+    {
+      "id": 5,
+      "gameId": 7,
+      "name": "空洞骑士",
+      "cover": "https://ts1.tc.mm.bing.net/th/id/OIP-C.F9DjOsrfEDTV1IXPcNmaAgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "oldPrice": 42,
+      "nowPrice": 30,
+      "discount": 29,
+      "until": "2026-06-16",
+      "reason": "独立游戏精选"
+    },
+    {
+      "id": 6,
+      "gameId": 10,
+      "name": "生化危机4：重制版",
+      "cover": "https://img.3dmgame.com/uploads/images/news/20220614/1655164948_557784.jpg",
+      "oldPrice": 268,
+      "nowPrice": 198,
+      "discount": 26,
+      "until": "2026-06-09",
+      "reason": "Capcom 夏季特卖"
+    },
+    {
+      "id": 7,
+      "gameId": 13,
+      "name": "怪物猎人：世界",
+      "cover": "https://ts1.tc.mm.bing.net/th/id/R-C.5e62a900d1c4d58766978440a4ab8460?rik=DLf758oJHykJ%2bw&riu=http%3a%2f%2fwww.gamelook.com.cn%2fwp-content%2fuploads%2f2018%2f03%2f27-4.jpg&ehk=6hyFEiWr9s4QUaYfvwyYdDu%2fIsll8MYIfJg3r%2bYmX60%3d&risl=&pid=ImgRaw&r=0",
+      "oldPrice": 228,
+      "nowPrice": 148,
+      "discount": 35,
+      "until": "2026-06-11",
+      "reason": "狩猎节活动"
+    },
+    {
+      "id": 8,
+      "gameId": 14,
+      "name": "赛博朋克2077",
+      "cover": "https://img.3dmgame.com/uploads/images/news/20201204/1607046791_936713.jpg",
+      "oldPrice": 298,
+      "nowPrice": 178,
+      "discount": 40,
+      "until": "2026-06-18",
+      "reason": "CDPR 年中特惠"
+    },
+    {
+      "id": 9,
+      "gameId": 15,
+      "name": "蔚蓝",
+      "cover": "https://img-blog.csdnimg.cn/20190603002852622.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODcwODEzMA==,size_16,color_FFFFFF,t_70",
+      "oldPrice": 66,
+      "nowPrice": 54,
+      "discount": 18,
+      "until": "2026-06-14",
+      "reason": "独立佳作周"
+    },
+    {
+      "id": 10,
+      "gameId": 8,
+      "name": "绝地求生",
+      "cover": "https://ts1.tc.mm.bing.net/th/id/R-C.ffe00a1c98eef06bd94292c7ee9c31da?rik=9oHqmB6ZMWetFQ&riu=http%3a%2f%2fossweb-img.qq.com%2fupload%2fwebplat%2finfo%2fpubg%2f20171201%2f23669547580567.jpg&ehk=WJzI%2bICQWJkdr75u%2fD4teQWqlIDKL0QDsU5h1Riquy0%3d&risl=&pid=ImgRaw&r=0",
+      "oldPrice": 128,
+      "nowPrice": 98,
+      "discount": 23,
+      "until": "2026-06-20",
+      "reason": "夏季大逃杀节"
+    },
+    {
+      "id": 11,
+      "gameId": 5,
+      "name": "火箭联盟",
+      "cover": "https://img.3dmgame.com/uploads/images/news/20240624/1719193695_807612.jpg",
+      "oldPrice": 0,
+      "nowPrice": 0,
+      "discount": 0,
+      "until": "2026-06-30",
+      "reason": "永久免费游玩"
+    },
+    {
+      "id": 12,
+      "gameId": 11,
+      "name": "原神",
+      "cover": "https://k.sinaimg.cn/n/finance/transform/185/w630h355/20220920/1079-58b3379e12aceb47482087e13a60c00e.png/w700h350z1l10t10f8c.jpg",
+      "oldPrice": 0,
+      "nowPrice": 0,
+      "discount": 0,
+      "until": "2026-06-30",
+      "reason": "新版本上线推荐"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "user": "褪色者老王",
+      "avatar": "/avatar_100.jpg",
+      "game": "艾尔登法环",
+      "title": "马力卡骑马流通关心得",
+      "content": "骑马能规避大多数精英怪的攻击判定，推图效率拉满。",
+      "likes": 342,
+      "replies": 87,
+      "tag": "攻略"
+    },
+    {
+      "id": 2,
+      "user": "西部旅人",
+      "avatar": "/avatar_101.jpg",
+      "game": "荒野大镖客：救赎2",
+      "title": "亚瑟的结局让我哭了整整一个小时",
+      "content": "这个游戏的剧情真的是神，亚瑟摩根是游戏史上最好的主角之一。",
+      "likes": 891,
+      "replies": 213,
+      "tag": "感想"
+    },
+    {
+      "id": 3,
+      "user": "星露谷农场主",
+      "avatar": "/avatar_102.jpg",
+      "game": "星露谷物语",
+      "title": "完美农场布局分享（第三年冬季截图）",
+      "content": "把温室放在中间，上下各留两格路径，物品箱靠近出入口最方便。",
+      "likes": 567,
+      "replies": 134,
+      "tag": "攻略"
+    },
+    {
+      "id": 4,
+      "user": "莱昂粉丝",
+      "avatar": "/avatar_103.jpg",
+      "game": "生化危机4：重制版",
+      "title": "刀刀流是什么神仙体验",
+      "content": "全程只用小刀通关，重制版的刀系统比原版强多了，挡弹和突刺都好用。",
+      "likes": 228,
+      "replies": 56,
+      "tag": "挑战"
+    },
+    {
+      "id": 5,
+      "user": "旅行者小枫",
+      "avatar": "/avatar_104.jpg",
+      "game": "原神",
+      "title": "纳塔新地图探索路线整理",
+      "content": "先解锁东南方的传送点，再往内陆推，能节省大量跑图时间。",
+      "likes": 445,
+      "replies": 102,
+      "tag": "攻略"
+    },
+    {
+      "id": 6,
+      "user": "骑士夜行",
+      "avatar": "/avatar_105.jpg",
+      "game": "空洞骑士",
+      "title": "纯洁心灵·血肉武器boss竟然卡了我三天",
+      "content": "第二阶段的愤怒判定真的太离谱，最后靠着影子分身才过，别忘记先升满灵魂。",
+      "likes": 386,
+      "replies": 94,
+      "tag": "讨论"
+    },
+    {
+      "id": 7,
+      "user": "车球大师",
+      "avatar": "/avatar_106.jpg",
+      "game": "火箭联盟",
+      "title": "超音速青铜爬分攻略",
+      "content": "优先练习空中球感和助推管理，旋转这些花活等上了白金再学。",
+      "likes": 179,
+      "replies": 47,
+      "tag": "技巧"
+    },
+    {
+      "id": 8,
+      "user": "TD瓦伦廷",
+      "avatar": "/avatar_107.jpg",
+      "game": "博德之门3",
+      "title": "盗贼流全隐身通关是什么感觉",
+      "content": "全程隐身、全程偷窃、全程暗杀，幻影步+行动激增之后基本上无法无天。",
+      "likes": 312,
+      "replies": 78,
+      "tag": "攻略"
+    },
+    {
+      "id": 9,
+      "user": "玛德琳粉",
+      "avatar": "/avatar_108.jpg",
+      "game": "蔚蓝",
+      "title": "B面和心之面的区别有多大",
+      "content": "B面只是稍难，心之面才是真正的地狱，草莓也更难拿，但通关那一刻真的很爽。",
+      "likes": 203,
+      "replies": 51,
+      "tag": "感想"
+    },
+    {
+      "id": 10,
+      "user": "鸡肉饭大叔",
+      "avatar": "/avatar_109.jpg",
+      "game": "绝地求生",
+      "title": "决赛圈1v4的心路历程",
+      "content": "烟雾弹救了我，别以为单排就不能吃鸡，心态最重要。",
+      "likes": 422,
+      "replies": 118,
+      "tag": "战报"
+    },
+    {
+      "id": 11,
+      "user": "猎人协会员",
+      "avatar": "/avatar_110.jpg",
+      "game": "怪物猎人：世界",
+      "title": "大剑新手入门三件套推荐",
+      "content": "贴斩、真蓄三段、出怪时预判读，这三个掌握了就能打过大部分怪。",
+      "likes": 275,
+      "replies": 63,
+      "tag": "攻略"
+    },
+    {
+      "id": 12,
+      "user": "夜之城居民",
+      "avatar": "/avatar_111.jpg",
+      "game": "赛博朋克2077",
+      "title": "极限特化流是赛博2077最爽的玩法没有之一",
+      "content": "满属性极限特化之后几乎能随意入侵所有设备，偷车、偷钱、控制敌人全包了。",
+      "likes": 348,
+      "replies": 89,
+      "tag": "攻略"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "艾尔登法环：黄金树幽影DLC",
+      "type": "DLC",
+      "date": "2026-05-28",
+      "summary": "影之地全新区域现已开放，全新武器和BOSS等你挑战。",
+      "content": "黄金树幽影带来了超过100种全新武器、8位记忆主BOSS和广阔的影之地大陆，是艾尔登法环发售以来规模最大的内容更新。"
+    },
+    {
+      "id": 2,
+      "title": "博德之门3正式支持Mod工具",
+      "type": "更新",
+      "date": "2026-05-27",
+      "summary": "Larian 正式发布官方Mod编辑器，创意工坊内容已过万。",
+      "content": "官方Mod工具的发布让玩家可以自由创建新职业、新地图和新剧情，创意工坊在发布首周内容数量突破一万件。"
+    },
+    {
+      "id": 3,
+      "title": "夏季游戏特卖正式开启",
+      "type": "活动",
+      "date": "2026-05-26",
+      "summary": "超过500款游戏参与折扣，最高优惠达90%。",
+      "content": "本次夏季特卖覆盖动作、RPG、策略、独立等多个品类，荒野大镖客2、文明6、赛博朋克2077均有大幅折扣，活动持续至6月30日。"
+    },
+    {
+      "id": 4,
+      "title": "原神 5.7 版本「逆旅之歌」上线",
+      "type": "更新",
+      "date": "2026-05-25",
+      "summary": "全新角色和新地图随版本更新一同登场。",
+      "content": "5.7版本带来了枫丹新章剧情、全新五星角色和优化后的深境螺旋机制，同期举行登录有礼活动，免费获取大量原石。"
+    },
+    {
+      "id": 5,
+      "title": "怪物猎人：荒野情报公开",
+      "type": "新游",
+      "date": "2026-05-24",
+      "summary": "下一代怪猎新作最新实机演示正式亮相。",
+      "content": "怪物猎人：荒野公开了全新的生态系统玩法和天气变化机制，地图规模较世界大幅提升，预计2026年底发售。"
+    },
+    {
+      "id": 6,
+      "title": "火箭联盟 S15 赛季开启",
+      "type": "赛季",
+      "date": "2026-05-23",
+      "summary": "全新赛季奖励和竞技排行系统已更新。",
+      "content": "S15赛季引入全新的赛季通行证奖励和优化后的排位赛制，前100名玩家可获得限定赛车装扮。"
+    },
+    {
+      "id": 7,
+      "title": "星露谷物语 1.6 更新公告",
+      "type": "更新",
+      "date": "2026-05-22",
+      "summary": "农场动物新种类和多人联机优化正式推送。",
+      "content": "1.6更新新增了多种农场动物、新的季节性活动和大幅优化的多人模式，修复了长期困扰玩家的存档同步问题。"
+    },
+    {
+      "id": 8,
+      "title": "绝地求生新地图「卡拉金」返回",
+      "type": "更新",
+      "date": "2026-05-21",
+      "summary": "经典地图强势回归，带来全新时装赛季。",
+      "content": "卡拉金地图在经过大幅改版后重新上线，新增了可攀爬建筑和动态天气系统，配合S28赛季皮肤同步开售。"
+    },
+    {
+      "id": 9,
+      "title": "空洞骑士：丝之歌最新进展",
+      "type": "情报",
+      "date": "2026-05-20",
+      "summary": "Team Cherry 公开续作最新开发截图。",
+      "content": "经过数年等待，Team Cherry 发布了空洞骑士：丝之歌的最新实机截图，展示了全新的角色技能和地图区域，并确认将于2026年内公开正式发售日期。"
+    },
+    {
+      "id": 10,
+      "title": "赛博朋克2077：幻象自由获奖回顾",
+      "type": "活动",
+      "date": "2026-05-19",
+      "summary": "DLC累计获得超过20项年度游戏奖项提名。",
+      "content": "幻象自由扩展包在各大颁奖典礼中斩获最佳DLC奖项，CD Projekt RED 宣布新作已进入预制作阶段，同期开启回顾特卖活动。"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1001,
+      "gameId": 1,
+      "name": "艾尔登法环",
+      "status": "已完成",
+      "price": 198,
+      "date": "2026-05-18",
+      "pay": "支付宝"
+    },
+    {
+      "id": 1002,
+      "gameId": 6,
+      "name": "博德之门3",
+      "status": "已完成",
+      "price": 298,
+      "date": "2026-05-15",
+      "pay": "微信支付"
+    },
+    {
+      "id": 1003,
+      "gameId": 7,
+      "name": "空洞骑士",
+      "status": "已完成",
+      "price": 30,
+      "date": "2026-05-12",
+      "pay": "余额"
+    },
+    {
+      "id": 1004,
+      "gameId": 15,
+      "name": "蔚蓝",
+      "status": "已完成",
+      "price": 54,
+      "date": "2026-05-10",
+      "pay": "银行卡"
+    },
+    {
+      "id": 1005,
+      "gameId": 14,
+      "name": "赛博朋克2077",
+      "status": "退款审核",
+      "price": 178,
+      "date": "2026-05-08",
+      "pay": "支付宝"
+    },
+    {
+      "id": 1006,
+      "gameId": 13,
+      "name": "怪物猎人：世界",
+      "status": "已完成",
+      "price": 148,
+      "date": "2026-05-05",
+      "pay": "微信支付"
+    },
+    {
+      "id": 1007,
+      "gameId": 10,
+      "name": "生化危机4：重制版",
+      "status": "已完成",
+      "price": 198,
+      "date": "2026-05-01",
+      "pay": "余额"
+    },
+    {
+      "id": 1008,
+      "gameId": 12,
+      "name": "传送门2",
+      "status": "已完成",
+      "price": 47,
+      "date": "2026-04-28",
+      "pay": "银行卡"
+    },
+    {
+      "id": 1009,
+      "gameId": 2,
+      "name": "荒野大镖客：救赎2",
+      "status": "已完成",
+      "price": 178,
+      "date": "2026-04-20",
+      "pay": "支付宝"
+    },
+    {
+      "id": 1010,
+      "gameId": 4,
+      "name": "文明6",
+      "status": "已完成",
+      "price": 98,
+      "date": "2026-04-18",
+      "pay": "微信支付"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "gameId": 1,
+      "user": "黄金律法党",
+      "score": 5,
+      "content": "开放世界和魂类战斗的完美结合，探图时的惊喜感绝无仅有。",
+      "date": "2026-05-20"
+    },
+    {
+      "id": 2,
+      "gameId": 1,
+      "user": "平凡褪色者",
+      "score": 5,
+      "content": "BOSS设计是系列巅峰，摩戈特、玛莲妮亚让人印象深刻。",
+      "date": "2026-05-19"
+    },
+    {
+      "id": 3,
+      "gameId": 2,
+      "user": "牛仔老炮",
+      "score": 5,
+      "content": "亚瑟的故事是游戏史上最好的主角叙事，没有之一。",
+      "date": "2026-05-18"
+    },
+    {
+      "id": 4,
+      "gameId": 6,
+      "user": "大法师学生",
+      "score": 5,
+      "content": "自由度极高，每次决策都感觉影响深远，多周目体验完全不同。",
+      "date": "2026-05-17"
+    },
+    {
+      "id": 5,
+      "gameId": 3,
+      "user": "农场日记本",
+      "score": 5,
+      "content": "一个人做了一款完美的游戏，太难得了，玩了500小时还没腻。",
+      "date": "2026-05-15"
+    },
+    {
+      "id": 6,
+      "gameId": 7,
+      "user": "虫族探险家",
+      "score": 5,
+      "content": "地图设计是奇迹，音乐和氛围让人完全沉浸，独立游戏的天花板。",
+      "date": "2026-05-13"
+    },
+    {
+      "id": 7,
+      "gameId": 15,
+      "user": "跳跃爱好者",
+      "score": 5,
+      "content": "平台游戏手感一流，心之面通关后哭了，游戏不只是游戏。",
+      "date": "2026-05-11"
+    },
+    {
+      "id": 8,
+      "gameId": 12,
+      "user": "科学迷糊蛋",
+      "score": 5,
+      "content": "GLaDOS的台词笑死我了，合作模式是有史以来最好的协作游戏体验。",
+      "date": "2026-05-09"
+    },
+    {
+      "id": 9,
+      "gameId": 10,
+      "user": "生化粉20年",
+      "score": 5,
+      "content": "完美复刻了原版的紧张感，同时加入了现代化改进，超出预期。",
+      "date": "2026-05-06"
+    },
+    {
+      "id": 10,
+      "gameId": 13,
+      "user": "猎人二阶",
+      "score": 4,
+      "content": "狩猎循环非常上头，武器种类丰富，就是前期新手引导稍微长了点。",
+      "date": "2026-05-03"
+    },
+    {
+      "id": 11,
+      "gameId": 14,
+      "user": "夜之城漫游者",
+      "score": 4,
+      "content": "更新后的2077已经完全不同了，义体剑客流超级爽快。",
+      "date": "2026-04-28"
+    },
+    {
+      "id": 12,
+      "gameId": 11,
+      "user": "提瓦特旅行者",
+      "score": 4,
+      "content": "美术和音乐顶级，剧情越来越好，就是氪金系统需要克制一下。",
+      "date": "2026-04-24"
+    }
+  ],
+  "coupons": [
+    {
+      "id": 1,
+      "name": "新人满100减15",
+      "condition": "订单满100元可用",
+      "amount": 15
+    },
+    {
+      "id": 2,
+      "name": "策略游戏专属券",
+      "condition": "策略经营分类可用",
+      "amount": 12
+    },
+    {
+      "id": 3,
+      "name": "独立游戏支持券",
+      "condition": "独立游戏分类可用",
+      "amount": 8
+    },
+    {
+      "id": 4,
+      "name": "恐怖游戏挑战券",
+      "condition": "恐怖生存分类可用",
+      "amount": 10
+    },
+    {
+      "id": 5,
+      "name": "RPG 史诗券",
+      "condition": "角色扮演分类可用",
+      "amount": 20
+    },
+    {
+      "id": 6,
+      "name": "周末特供券",
+      "condition": "周五至周日可用",
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "name": "多人游戏组队券",
+      "condition": "多人在线分类可用",
+      "amount": 12
+    },
+    {
+      "id": 8,
+      "name": "模拟建造专属券",
+      "condition": "模拟建造分类可用",
+      "amount": 10
+    },
+    {
+      "id": 9,
+      "name": "社区活跃奖励券",
+      "condition": "社区发帖后可领取",
+      "amount": 8
+    },
+    {
+      "id": 10,
+      "name": "满300减30大额券",
+      "condition": "单笔订单满300元可用",
+      "amount": 30
+    }
+  ]
+}

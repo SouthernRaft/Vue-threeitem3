@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#17202d"/>
+      <stop offset="0.54" stop-color="#253449"/>
+      <stop offset="1" stop-color="#12977f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#g)"/>
+  <path d="M0 328C168 260 296 354 450 294C622 226 746 98 930 130C1054 151 1125 222 1200 196V420H0Z" fill="rgba(255,255,255,0.08)"/>
+  <rect x="72" y="70" width="360" height="220" rx="18" fill="rgba(0,0,0,0.22)" stroke="rgba(255,255,255,0.16)"/>
+  <circle cx="252" cy="180" r="66" fill="rgba(32,214,181,0.26)" stroke="#20d6b5" stroke-width="4"/>
+  <text x="500" y="160" font-family="Arial, Microsoft YaHei" font-size="56" fill="#f3f6f9" font-weight="800">GAME STORE</text>
+  <text x="504" y="216" font-family="Arial, Microsoft YaHei" font-size="26" fill="#cbd3dd">replace this placeholder later</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#151a22"/>
+  <rect x="40" y="42" width="820" height="416" rx="20" fill="#202938" stroke="rgba(255,255,255,0.18)"/>
+  <path d="M80 372L248 214L358 304L498 154L820 386V430H80Z" fill="rgba(32,214,181,0.23)"/>
+  <circle cx="696" cy="128" r="46" fill="#ffb34d"/>
+  <text x="450" y="250" text-anchor="middle" font-family="Arial, Microsoft YaHei" font-size="40" fill="#f3f6f9" font-weight="700">SCREENSHOT</text>
+</svg>
