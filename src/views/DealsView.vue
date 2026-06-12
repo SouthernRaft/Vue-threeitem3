@@ -80,7 +80,7 @@
 </template>
 
 <script setup>
-import axios from 'axios'
+import axios from '@/api'
 import { computed, onMounted, ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'

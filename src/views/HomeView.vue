@@ -123,7 +123,7 @@
 
 <!-- 首页视图 - 展示轮播图、精选游戏、商店公告和热门排行 -->
 <script setup>
-import axios from 'axios'
+import axios from '@/api'
 import { computed, onMounted, ref } from 'vue'
 import { useRouter, RouterLink } from 'vue-router'
 import { ElMessage } from 'element-plus'

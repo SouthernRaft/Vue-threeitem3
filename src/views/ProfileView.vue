@@ -104,7 +104,7 @@
 </template>
 
 <script setup>
-import axios from 'axios'
+import axios from '@/api'
 import { computed, onMounted, reactive, ref } from 'vue'
 import { RouterLink } from 'vue-router'
 import { ElMessage } from 'element-plus'

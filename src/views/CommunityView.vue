@@ -99,7 +99,7 @@
 </template>
 
 <script setup>
-import axios from 'axios'
+import axios from '@/api'
 import { computed, onMounted, reactive, ref } from 'vue'
 import { ElMessage } from 'element-plus'
 import { Edit } from '@element-plus/icons-vue'

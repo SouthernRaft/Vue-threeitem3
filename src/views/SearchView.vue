@@ -35,7 +35,7 @@
 </template>
 
 <script setup>
-import axios from 'axios'
+import axios from '@/api'
 import { computed, onMounted, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { Search } from '@element-plus/icons-vue'

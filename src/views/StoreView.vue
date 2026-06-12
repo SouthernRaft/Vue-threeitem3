@@ -117,7 +117,7 @@
 
 <!-- 游戏库视图 - 支持筛选、排序、搜索和分页，提供卡片/表格两种视图模式 -->
 <script setup>
-import axios from 'axios'
+import axios from '@/api'
 import { computed, onMounted, reactive, ref, watch } from 'vue'
 import { useRouter, RouterLink } from 'vue-router'
 import { ElMessage } from 'element-plus'

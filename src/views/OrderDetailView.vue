@@ -39,7 +39,7 @@
 </template>
 
 <script setup>
-import axios from 'axios'
+import axios from '@/api'
 import { onMounted, ref } from 'vue'
 import { useRoute } from 'vue-router'
 

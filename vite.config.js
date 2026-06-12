@@ -6,6 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: './', // 相对路径，适配 GitHub Pages
   plugins: [
     vue(),
     vueDevTools(),
